@@ -1,0 +1,113 @@
+G:\5 семестр\ГСК\Курсовая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe.config
+G:\5 семестр\ГСК\Курсовая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe
+G:\5 семестр\ГСК\Курсовая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.pdb
+G:\5 семестр\ГСК\Курсовая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Form1.resources
+G:\5 семестр\ГСК\Курсовая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Properties.Resources.resources
+G:\5 семестр\ГСК\Курсовая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Resource1.resources
+G:\5 семестр\ГСК\Курсовая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csproj.GenerateResource.Cache
+G:\5 семестр\ГСК\Курсовая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.exe
+G:\5 семестр\ГСК\Курсовая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.pdb
+G:\5 семестр\ГСК\Курсовая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csprojResolveAssemblyReference.cache
+I:\5 семестр\ГСК\Курсовая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe.config
+I:\5 семестр\ГСК\Курсовая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.exe
+I:\5 семестр\ГСК\Курсовая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.pdb
+I:\5 семестр\ГСК\Курсовая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe
+I:\5 семестр\ГСК\Курсовая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.pdb
+I:\5 семестр\ГСК\Курсовая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csprojResolveAssemblyReference.cache
+I:\5 семестр\ГСК\Курсовая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Form1.resources
+I:\5 семестр\ГСК\Курсовая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Properties.Resources.resources
+I:\5 семестр\ГСК\Курсовая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Resource1.resources
+I:\5 семестр\ГСК\Курсовая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csproj.GenerateResource.Cache
+C:\Users\Hollywood\Desktop\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe.config
+C:\Users\Hollywood\Desktop\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.exe
+C:\Users\Hollywood\Desktop\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.pdb
+C:\Users\Hollywood\Desktop\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe
+C:\Users\Hollywood\Desktop\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.pdb
+C:\Users\Hollywood\Desktop\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csprojResolveAssemblyReference.cache
+C:\Users\Hollywood\Desktop\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Form1.resources
+C:\Users\Hollywood\Desktop\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Properties.Resources.resources
+C:\Users\Hollywood\Desktop\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Resource1.resources
+C:\Users\Hollywood\Desktop\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csproj.GenerateResource.Cache
+G:\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe.config
+G:\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.exe
+G:\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.pdb
+G:\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe
+G:\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.pdb
+G:\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csprojResolveAssemblyReference.cache
+G:\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Form1.resources
+G:\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Properties.Resources.resources
+G:\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Resource1.resources
+G:\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csproj.GenerateResource.Cache
+D:\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe.config
+D:\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.exe
+D:\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.pdb
+G:\актуальнейшая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe.config
+G:\актуальнейшая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.exe
+G:\актуальнейшая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.pdb
+G:\актуальнейшая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe
+G:\актуальнейшая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.pdb
+G:\актуальнейшая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csprojResolveAssemblyReference.cache
+G:\актуальнейшая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Form1.resources
+G:\актуальнейшая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Properties.Resources.resources
+G:\актуальнейшая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Resource1.resources
+G:\актуальнейшая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csproj.GenerateResource.Cache
+E:\актуальнейшая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe.config
+E:\актуальнейшая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.exe
+E:\актуальнейшая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.pdb
+E:\актуальнейшая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe
+E:\актуальнейшая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.pdb
+E:\актуальнейшая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csprojResolveAssemblyReference.cache
+E:\актуальнейшая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Form1.resources
+E:\актуальнейшая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Properties.Resources.resources
+E:\актуальнейшая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Resource1.resources
+E:\актуальнейшая\Актуальная\27.11.2019\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csproj.GenerateResource.Cache
+G:\Переход к float\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe.config
+G:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.exe
+G:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.pdb
+G:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Form1.resources
+G:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Properties.Resources.resources
+G:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Resource1.resources
+G:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csproj.GenerateResource.Cache
+G:\Переход к float\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe
+G:\Переход к float\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.pdb
+I:\Переход к float\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe.config
+I:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.exe
+I:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.pdb
+I:\Переход к float\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe
+I:\Переход к float\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.pdb
+I:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csprojResolveAssemblyReference.cache
+I:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Form1.resources
+I:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Properties.Resources.resources
+I:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Resource1.resources
+I:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csproj.GenerateResource.Cache
+X:\Переход к float\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe.config
+X:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.exe
+X:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.pdb
+X:\Переход к float\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe
+X:\Переход к float\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.pdb
+X:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csprojResolveAssemblyReference.cache
+X:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Form1.resources
+X:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Properties.Resources.resources
+X:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Resource1.resources
+X:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csproj.GenerateResource.Cache
+E:\Переход к float\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe.config
+E:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.exe
+E:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.pdb
+E:\Переход к float\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe
+E:\Переход к float\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.pdb
+E:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csprojResolveAssemblyReference.cache
+E:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Form1.resources
+E:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Properties.Resources.resources
+E:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Resource1.resources
+E:\Переход к float\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csproj.GenerateResource.Cache
+C:\Users\Yan\Desktop\Root\University\5 семестр\ГСК\Курсовая\Актуальная\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csprojAssemblyReference.cache
+C:\Users\Yan\Desktop\Root\University\5 семестр\ГСК\Курсовая\Актуальная\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Form1.resources
+C:\Users\Yan\Desktop\Root\University\5 семестр\ГСК\Курсовая\Актуальная\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Properties.Resources.resources
+C:\Users\Yan\Desktop\Root\University\5 семестр\ГСК\Курсовая\Актуальная\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Resource1.resources
+C:\Users\Yan\Desktop\Root\University\5 семестр\ГСК\Курсовая\Актуальная\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csproj.GenerateResource.cache
+C:\Users\Yan\Desktop\Root\University\5 семестр\ГСК\Курсовая\Актуальная\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csproj.CoreCompileInputs.cache
+C:\Users\Yan\Desktop\Root\University\5 семестр\ГСК\Курсовая\Актуальная\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.exe
+C:\Users\Yan\Desktop\Root\University\5 семестр\ГСК\Курсовая\Актуальная\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.pdb
+C:\Users\Yan\Desktop\Root\University\5 семестр\ГСК\Курсовая\Актуальная\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe.config
+C:\Users\Yan\Desktop\Root\University\5 семестр\ГСК\Курсовая\Актуальная\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe
+C:\Users\Yan\Desktop\Root\University\5 семестр\ГСК\Курсовая\Актуальная\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.pdb
